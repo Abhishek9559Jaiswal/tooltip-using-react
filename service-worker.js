@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tooltip-using-react/precache-manifest.0b8287102a2ce72ed194a09af5d96bd5.js"
+  "/Todo-list-using-React/precache-manifest.dcc340ceafb6505adc1eeba816455318.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tooltip-using-react/index.html", {
+workbox.routing.registerNavigationRoute("/Todo-list-using-React/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
