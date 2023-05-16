@@ -1,15 +1,13 @@
 {
-  "main.css": "/Todo-list-using-React/static/css/main.a3b07748.chunk.css",
-  "main.js": "/Todo-list-using-React/static/js/main.fe0c2647.chunk.js",
-  "main.js.map": "/Todo-list-using-React/static/js/main.fe0c2647.chunk.js.map",
-  "static/css/1.23bd4583.chunk.css": "/Todo-list-using-React/static/css/1.23bd4583.chunk.css",
-  "static/js/1.4d53b258.chunk.js": "/Todo-list-using-React/static/js/1.4d53b258.chunk.js",
-  "static/js/1.4d53b258.chunk.js.map": "/Todo-list-using-React/static/js/1.4d53b258.chunk.js.map",
-  "runtime~main.js": "/Todo-list-using-React/static/js/runtime~main.7ae75e57.js",
-  "runtime~main.js.map": "/Todo-list-using-React/static/js/runtime~main.7ae75e57.js.map",
-  "static/css/main.a3b07748.chunk.css.map": "/Todo-list-using-React/static/css/main.a3b07748.chunk.css.map",
-  "static/css/1.23bd4583.chunk.css.map": "/Todo-list-using-React/static/css/1.23bd4583.chunk.css.map",
-  "index.html": "/Todo-list-using-React/index.html",
-  "precache-manifest.dcc340ceafb6505adc1eeba816455318.js": "/Todo-list-using-React/precache-manifest.dcc340ceafb6505adc1eeba816455318.js",
-  "service-worker.js": "/Todo-list-using-React/service-worker.js"
+  "files": {
+    "main.css": "/tooltip-using-react/static/css/main.e39326b3.css",
+    "main.js": "/tooltip-using-react/static/js/main.82ff7b82.js",
+    "index.html": "/tooltip-using-react/index.html",
+    "main.e39326b3.css.map": "/tooltip-using-react/static/css/main.e39326b3.css.map",
+    "main.82ff7b82.js.map": "/tooltip-using-react/static/js/main.82ff7b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e39326b3.css",
+    "static/js/main.82ff7b82.js"
+  ]
 }
